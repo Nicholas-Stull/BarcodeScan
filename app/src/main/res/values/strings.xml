@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BarcodeScan</string>
+    <string name="barcode">Barkod okutmak icin resim e tikla</string>
+    <string name="barcodeApplicationNotFound">Barkod uygulamasi bulunamadi. Indirmek ister misiniz ?</string>
+    <string name="yes">Evet</string>
+    <string name="no">Hayır</string>
+</resources>
