@@ -70,7 +70,7 @@ public class Scan {
                 };
 
                 showDialog(activity,
-                        "Master WO",
+                        "Scanner",
                         activity.getResources().getString(R.string.barcodeApplicationNotFound),
                         activity.getResources().getString(R.string.yes),activity.getResources().getString(R.string.no),
                         0,
